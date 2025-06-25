@@ -31,6 +31,3 @@ h) Loader cleanup is called.
 Aakanksha (2023004) - defined page fault handler including arithmetic logic, loader_cleanup, memory allocation of and copying the segment content, error handling, make files
 
 Palak Yadav (2023363) - setup sigaction, output stats, loading binary content into the memory, navigating to the entrypoint address, typecasting the address, error handling, make files
-
-## Link to the repository
-https://github.com/aakanksha-27/OS-Assignment-4
